@@ -1,6 +1,6 @@
 # Hi, I'm ylv 👋
 
-量化工程师，主要研究量化交易、机器学习和金融数据分析。
+主攻LLM,量化，研究量化交易、机器学习和金融数据分析。
 
 ## Research Interests
 - Quantitative Trading
