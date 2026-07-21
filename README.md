@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm ylv 👋
 
-<!--
-**ylv01/ylv01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+量化工程师，主要研究量化交易、机器学习和金融数据分析。
 
-Here are some ideas to get you started:
+## Research Interests
+- Quantitative Trading
+- LightGBM / XGBoost
+- Transformer
+- Financial Data Engineering
+- Index Futures Trading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [V-Right 日内 V 反 / 反 V 预警](https://github.com/q2284788442-lgtm/V-Right-visualization-demo)
+- 指数期货机器学习策略
+- 宽基指数因子研究
+- 金融数据 Pipeline
+
+## GitHub
+欢迎查看我的项目与研究记录。
