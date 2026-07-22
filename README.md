@@ -10,7 +10,7 @@
 - Index Futures Trading
 
 ## Projects
-- [V-Right 日内 V 反 / 反 V 预警](https://github.com/q2284788442-lgtm/V-Right-visualization-demo)
+- [V-Right 分K级V反/反V预警](https://github.com/q2284788442-lgtm/V-Right-visualization-demo](https://github.com/ylv01/Index-v-reversal-alert)
 - 指数期货机器学习策略
 - 宽基指数因子研究
 - 金融数据 Pipeline
