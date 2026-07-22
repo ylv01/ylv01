@@ -17,3 +17,4 @@
 
 ## GitHub
 欢迎查看我的项目与研究记录。
+![ylv01 contribution report](/others_show/ylv01-contribution-report.svg)
