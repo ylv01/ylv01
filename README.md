@@ -15,7 +15,7 @@
 - 指数期货机器学习策略
 - 宽基指数因子研究
 - 金融数据 Pipeline
-- [全自动化更新并美化github提交记录主页](https://github.com/ylv01/gitpulse-contribution-visualizer)
+- [分K级振幅动态概率模型实现]((https://github.com/ylv01/csi1000-intraday-amplitude-probability)
 
 ## 欢迎查看我的项目与研究记录
 
