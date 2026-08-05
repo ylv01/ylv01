@@ -15,7 +15,7 @@
 - 指数期货机器学习策略
 - 宽基指数因子研究
 - 金融数据 Pipeline
-- [分K级振幅动态概率模型实现]((https://github.com/ylv01/csi1000-intraday-amplitude-probability)
+- [分K级振幅动态概率模型实现](https://github.com/ylv01/csi1000-intraday-amplitude-probability)
 
 ## 欢迎查看我的项目与研究记录
 
