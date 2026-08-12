@@ -1,8 +1,9 @@
 # Hi, I'm ylv 👋
 
-主攻LLM，量化，研究量化交易、机器学习和金融数据分析。
+I mainly focus on LLMs and quantitative finance, with research interests in quantitative trading, machine learning, and financial data analysis.
 
-辅攻一些有趣的自动化项目，如果你有有趣的的idea和项目可以邀请我免费参与或者发送邮件。
+I also work on interesting automation projects on the side. If you have a compelling idea or open-source project, feel free to invite me to contribute — I’m happy to participate for free — or reach out to me via email.
+
 ## Research Interests
 - Quantitative Trading
 - LightGBM / XGBoost
