@@ -10,14 +10,14 @@
 
 | 方向 | 技术 |
 | :--- | :--- |
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white) |
-| ML & Quant | ![LightGBM](https://img.shields.io/badge/LightGBM-2980B9?style=flat) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| ML & Quant | ![LightGBM](https://img.shields.io/badge/LightGBM-2980B9?style=flat) ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat) ![Transformer](https://img.shields.io/badge/Transformer-FF6F00?style=flat) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
 | Frontend | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat&logo=apacheecharts&logoColor=white) |
 | Backend & Tools | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
 | DevOps | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat&logo=docker&logoColor=white) |
 | Quality | ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat&logo=ruff&logoColor=261230) ![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat) |
 
-研究兴趣：**指数期货 · 因子研究 · LightGBM / XGBoost · Transformer · 金融数据工程**。
+研究兴趣：**指数期货 · 因子研究 · 个股排序（Rank） · LightGBM / XGBoost · Transformer · 金融数据工程**。
 
 ## Contribution Report
 
