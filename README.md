@@ -22,8 +22,11 @@
 
 研究兴趣：**指数期货 · 因子研究 · 个股排序（Rank） · LightGBM / XGBoost · Transformer · 金融数据工程**。
 
-## Contribution Report
+## Contribution Snake
 
-![ylv01 contribution report](/others_show/ylv01-contribution-report.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ylv01/ylv01/snake-output/github-snake-dark.svg">
+  <img alt="GitHub contribution snake animation for ylv01" src="https://raw.githubusercontent.com/ylv01/ylv01/snake-output/github-snake.svg">
+</picture>
 
 有有趣的想法或开源项目？欢迎提 Issue，或通过 [邮件](mailto:ylvbase@gmail.com) 邀请我一起贡献。
